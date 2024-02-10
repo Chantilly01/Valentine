@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Lista de mensajes alternativos
     const messages = [
-        "¡Seguro que no?",
+        "Segura que no?",
         "Piénsalo bien",
         "De verdad, piénsalo",
         "Piénsalo otra vez",
