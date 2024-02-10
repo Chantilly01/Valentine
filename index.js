@@ -32,9 +32,7 @@ document.addEventListener("DOMContentLoaded", function () {
         yesButton.style.display = "none";
         noButton.style.display = "none";
 
-        // Restaura el texto del botón "no" y la pregunta
-        noButton.textContent = "No";
-        titt.textContent = "¿Quieres ser mi post Valentine?";
+        titt.textContent = "  Okaaaaay  te quiero :)   ";
     });
 
     // Añade un evento de clic al botón "no"
