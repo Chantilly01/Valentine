@@ -1,0 +1,51 @@
+/* styles.css */
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #ffe6ea; /* Color de fondo romántico */
+}
+
+.container {
+    text-align: center;
+}
+
+.first {
+    /* Estilos para el primer div */
+}
+
+.second {
+    display: none; /* Oculta el segundo div inicialmente */
+}
+
+.titt {
+    font-size: 24px;
+    margin-top: 20px;
+    color: #ff69b4; /* Color rosa */
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+.yes {
+    background-color: #4caf50; /* Color verde */
+    color: white;
+}
+
+.no {
+    background-color: #ff3333; /* Color rojo */
+    color: white;
+}
